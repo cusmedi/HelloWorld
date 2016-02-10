@@ -11,6 +11,16 @@
         android:layout_gravity="center_horizontal"
         android:text="HelloWorld"/>
 
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test"/>
+
 
     <Button
         android:layout_width="wrap_content"
